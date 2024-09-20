@@ -21,7 +21,7 @@ I'm combining three powerful techniques:
 ## Starting with Mental Contrasting
 
 First, I'll use mental contrasting to really bolster my commitment to meditation. 
-1. I'll vividly imagine the benefits - peace, focus and joy.
+1. I'll vividly imagine the benefits - peace and joy.
 2. I'll identify the obstacles that might prevent me from meditating. Lack of time? Agitated? Tired? 
 3. I'll create if-then plans to overcome obstacles. If I encounter obstacle X, then I will respond with action Y.
 
