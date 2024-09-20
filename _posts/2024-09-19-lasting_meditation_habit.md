@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Establishing A Meditation Habit"
-date: 2024-09-20 13:00:00 -0500
+date: 2024-09-20 03:00:00 +1000
 categories: [habits, meditation]
 tags: [first post, habits, meditation]
 ---
