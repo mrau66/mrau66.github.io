@@ -8,7 +8,7 @@ tags: [first post, habits, meditation]
 
 # Establishing A Meditation Habit
 
-I've set a new personal goal. I'm taking Marcus Aurelius's advice to heart: "We should discipline ourselves in small things, and from these progress to things of greater value." I'll start by meditating for just 5 minutes daily. As this small habit becomes ingrained, I'll gradually extend my sessions. 
+I've set a new personal goal. I'm taking Marcus Aurelius's advice to heart: "We should discipline ourselves in small things, and from these progress to things of greater value." I'll start by meditating for just 5 minutes daily. As this small habit becomes ingrained, I'll gradually extend my sessions. In addition to culivating a meditation habit gradually, I'll also leverage some powerful techniques from psychology and habit formation research to reinforce my practice and increase my chances of success.
 
 ## The Three-Pronged Approach
 
