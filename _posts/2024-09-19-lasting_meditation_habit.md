@@ -8,7 +8,7 @@ tags: [first post, habits, meditation]
 
 # Establishing A Meditation Habit
 
-I've set myself a new challenge: establishing a daily meditation practice. Regular practice really supercharges one's meditations.
+I've set a new personal goal. I'm taking Marcus Aurelius's advice to heart: "We should discipline ourselves in small things, and from these progress to things of greater value." I'll start by meditating for just 5 minutes daily. As this small habit becomes ingrained, I'll gradually extend my sessions. 
 
 ## The Three-Pronged Approach
 
@@ -20,7 +20,10 @@ I'm combining three powerful techniques:
 
 ## Starting with Mental Contrasting
 
-First, I'll use mental contrasting to really dig into why I want to meditate and what might get in my way. I'll vividly imagine the benefits - peace, focus, joy - and contrast that with my current reality. What obstacles might prevent me from meditating? Lack of time? Forgetfulness? By identifying these barriers upfront, I can plan to overcome them.
+First, I'll use mental contrasting to really bolster my commitment to meditation. 
+1. I'll vividly imagine the benefits - peace, focus and joy.
+2. I'll identify the obstacles that might prevent me from meditating. Lack of time? Agitated? Tired? 
+3. I'll create if-then plans to overcome obstacles. If I encounter obstacle X, then I will respond with action Y.
 
 ## Creating Implementation Intentions
 
@@ -28,7 +31,7 @@ Next, I'll create a specific "if-then" plans to tackle those obstacles. For exam
 - "If it's 6 AM, then I'll meditate for 10 minutes in my bedroom."
 - "If I feel too busy, then I'll do a 2-minute breathing exercise at my desk."
 - "If I feel overwhelmed with the plethora of meditation techniques, then fall-back on Anapanasati."
-- If I'm agitated or bored during meditation then, I'll continue meditation for at least another 10 minutes regardless of how I feel.
+- "If I'm agitated or bored during meditation then, I'll continue meditation for at least another 10 minutes regardless of how I feel."
 
 These concrete plans will help bridge the gap between my intentions and actions.
 
