@@ -1,8 +1,8 @@
 # Bundler cache (variable-hook.scss used for my own little updates to the theme)
 .bundle
-vendor/**
-!*/
-!vendor/bundle/ruby/3.2.0/gems/jekyll-theme-chirpy-7.1.1/_sass/variables-hook.scss
+# vendor/**
+# !*/
+# !vendor/bundle/ruby/3.2.0/gems/jekyll-theme-chirpy-7.1.1/_sass/variables-hook.scss
 
 Gemfile.lock
 
