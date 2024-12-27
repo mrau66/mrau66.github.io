@@ -12,7 +12,7 @@ Starting a meditation practice can seem daunting, but it's really about building
 2. Create specific if-then protocols for when you'll meditate.
 3. Write out both positive and negative scenarios to mentally prepare.
 4. Start small with just one minute per day, then gradually expand.
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; height: 800px; width: 100%; overflow: hidden;">
   <iframe src="https://docs.google.com/spreadsheets/d/1EMV6AkqW-Du98tjiej_Peau0Nmj9KMXP80b1Xkgbtxk/edit?usp=sharing" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 I'll be updating this tracker daily, so feel free to check back and see how I'm progressing in forming my meditation habit!
