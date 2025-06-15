@@ -1,6 +1,3 @@
-Perfect! You found GitHub's built-in Jekyll workflow. However, we need to modify it to work with the just-the-docs theme. The default workflow uses GitHub's preinstalled Jekyll environment which doesn't include the just-the-docs theme.
-Here's the modified version that will work with your theme:
-yaml# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
