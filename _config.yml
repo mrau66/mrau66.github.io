@@ -1,8 +1,44 @@
-title: Just the Docs Template
-description: Your site description
+# Site settings
+title: Django Model Creation Guide
+description: Step-by-step documentation for creating model instances in Django
 theme: just-the-docs
 
+# GitHub Pages settings
 url: https://mrau66.github.io
+baseurl: "/django-docs"  # Change this to match your repo name
 
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-mermaid
+
+# Just the Docs configuration
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Enable copy button for code blocks
+enable_copy_code_button: true
+
+# Mermaid diagrams
+mermaid:
+  version: "9.1.3"
+
+# Navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Django Admin": "/admin/"
+  "GitHub Repository": "https://github.com/mrau66/your-repo-name"
+
+sass:
+  sass_dir: _sass
+  quiet_deps: true
+  style: compressed
+  sourcemap: never
+
+custom_css: /assets/css/custom.css
+
+# Footer
+footer_content: "Documentation for Django Model Creation | <a href=\"https://github.com/mrau66/your-repo-name\">View on GitHub</a>"
