@@ -5,7 +5,7 @@ theme: just-the-docs
 
 # GitHub Pages settings
 url: https://mrau66.github.io
-baseurl: "/django-docs"  # Change this to match your repo name
+baseurl: ""  
 
 # Build settings
 markdown: kramdown
