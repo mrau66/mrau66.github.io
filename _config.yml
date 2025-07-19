@@ -5,7 +5,7 @@ theme: just-the-docs
 
 # GitHub Pages settings
 url: https://mrau66.github.io
-baseurl: ""  
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,6 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-mermaid
 
 # Just the Docs configuration
 color_scheme: light
@@ -38,7 +37,6 @@ sass:
   style: compressed
   sourcemap: never
 
-custom_css: /assets/css/custom.css
 
 # Footer
 footer_content: "Documentation for Django Model Creation | <a href=\"https://github.com/mrau66/your-repo-name\">View on GitHub</a>"
