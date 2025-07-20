@@ -68,6 +68,7 @@ graph TD
     B --> C[Business Logic Models] 
     C --> D[Feature Models]
     
+    %% Foundation Models (no dependencies)
     A1[Weeds] --> A
     A2[Natives] --> A
     A3[Tool Types] --> A
@@ -75,19 +76,53 @@ graph TD
     A5[Organization Types] --> A
     A6[Pay Scale] --> A
     A7[Roles] --> A
+    A8[Marker Types] --> A
     
+    %% Core Models (depend on Foundation)
     B1[Users] --> B
     B2[Contacts] --> B
     B3[Organizations] --> B
     B4[Weather Stations] --> B
+    B5[Base Boundaries] --> B
+    B6[Base Markers] --> B
+    B7[Zones] --> B
     
+    %% Business Logic Models (depend on Core + Foundation)
     C1[Worksites] --> C
     C2[Purchase Orders] --> C
     C3[Site Reports] --> C
+    C4[Worksite Boundaries] --> C
     
+    %% Feature Models (depend on all previous layers)
     D1[Rosters] --> D
     D2[Incidents] --> D
     D3[Detailed Reports] --> D
+    D4[Hours Worked] --> D
+    
+    %% Key Dependencies (shown as dotted lines)
+    A6 -.-> B1
+    A7 -.-> B1
+    A8 -.-> B6
+    B1 -.-> C1
+    B5 -.-> C4
+    B6 -.-> C1
+    B7 -.-> C1
+    A4 -.-> C1
+    C1 -.-> D1
+    C1 -.-> D3
+    B1 -.-> D1
+    B1 -.-> D4
+    
+    %% Styling
+    classDef foundation fill:#e1f5fe
+    classDef core fill:#f3e5f5
+    classDef business fill:#fff3e0
+    classDef feature fill:#e8f5e8
+    
+    class A1,A2,A3,A4,A5,A6,A7,A8 foundation
+    class B1,B2,B3,B4,B5,B6,B7 core
+    class C1,C2,C3,C4 business
+    class D1,D2,D3,D4 feature
 ```
 ---
 
